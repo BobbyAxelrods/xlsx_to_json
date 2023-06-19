@@ -68,5 +68,894 @@
     "ID SET DATA":"DOSM_DS10",
     "Nama Set Data":"Survei Pembuatan Bulanan",
     "PIC FHSB":null
+  },
+  {
+    "Bil":"11",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS11",
+    "Nama Set Data":"Survei Perkhidmatan Suku Tahunan",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"12",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS12",
+    "Nama Set Data":"Survei Guna Tenaga Suku Tahunan",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"13",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS13",
+    "Nama Set Data":"Survei Tenaga Buruh",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"14",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS14",
+    "Nama Set Data":"Survei Tenaga Buruh di Sektor Perladangan Kelapa Sawit",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"15",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"Emerging_DS01",
+    "Nama Set Data":"Artikel Media (25 Portal Media)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"16",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"Emerging_DS02",
+    "Nama Set Data":"Job Market Insights (4 Portal)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"17",
+    "Kementerian\/ Agensi\nPembekal Data":"JANM",
+    "ID SET DATA":"JANM_DS01",
+    "Nama Set Data":"Data Emolumen Pegawai Awam - Basic Pay",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":null,
+    "Kementerian\/ Agensi\nPembekal Data":null,
+    "ID SET DATA":null,
+    "Nama Set Data":"Data Emolumen Pegawai Awam - Deduction",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":null,
+    "Kementerian\/ Agensi\nPembekal Data":null,
+    "ID SET DATA":null,
+    "Nama Set Data":"Data Emolumen Pegawai Awam - Elaun",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":null,
+    "Kementerian\/ Agensi\nPembekal Data":null,
+    "ID SET DATA":null,
+    "Nama Set Data":"Data Emolumen Pegawai Awam - One Time Payment",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"18",
+    "Kementerian\/ Agensi\nPembekal Data":"JHEKS",
+    "ID SET DATA":"JHEKS_DS01",
+    "Nama Set Data":"Data Maklumat Asas Kesatuan (Suku Tahunan: Jan - Mac 2021)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"19",
+    "Kementerian\/ Agensi\nPembekal Data":"JHEKS",
+    "ID SET DATA":"JHEKS_DS02",
+    "Nama Set Data":"Maklumat Kesatuan Sekerja",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"20",
+    "Kementerian\/ Agensi\nPembekal Data":"JIM",
+    "ID SET DATA":"JIM_DS01",
+    "Nama Set Data":"Pegawai Dagang",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"21",
+    "Kementerian\/ Agensi\nPembekal Data":"JIM",
+    "ID SET DATA":"JIM_DS02",
+    "Nama Set Data":"Rekod Pemegang Pas PLKS",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"22",
+    "Kementerian\/ Agensi\nPembekal Data":"JKKP",
+    "ID SET DATA":"JKKP_DS01",
+    "Nama Set Data":"Data Kemalangan Pekerjaan (Disiasat JKKP)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"23",
+    "Kementerian\/ Agensi\nPembekal Data":"JKKP",
+    "ID SET DATA":"JKKP_DS02",
+    "Nama Set Data":"Data Pusat Pengajar",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"24",
+    "Kementerian\/ Agensi\nPembekal Data":"JKKP",
+    "ID SET DATA":"JKKP_DS03",
+    "Nama Set Data":"Industrial Accidents Report",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"25",
+    "Kementerian\/ Agensi\nPembekal Data":"JKKP",
+    "ID SET DATA":"JKKP_DS04",
+    "Nama Set Data":"Pendaftaran Orang Kompeten",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"26",
+    "Kementerian\/ Agensi\nPembekal Data":"JKKP",
+    "ID SET DATA":"JKKP_DS05",
+    "Nama Set Data":"Pendaftaran Tempat Kerja\/Firma Kompeten",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"27",
+    "Kementerian\/ Agensi\nPembekal Data":"JPA",
+    "ID SET DATA":"JPA_DS01",
+    "Nama Set Data":"eSila",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"28",
+    "Kementerian\/ Agensi\nPembekal Data":"JPA",
+    "ID SET DATA":"JPA_DS02",
+    "Nama Set Data":"HRMIS",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"29",
+    "Kementerian\/ Agensi\nPembekal Data":"JPA",
+    "ID SET DATA":"JPA_DS03",
+    "Nama Set Data":"MyPost",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"30",
+    "Kementerian\/ Agensi\nPembekal Data":"JPA",
+    "ID SET DATA":"JPA_DS04",
+    "Nama Set Data":"Power Gen2",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"31",
+    "Kementerian\/ Agensi\nPembekal Data":"JPK",
+    "ID SET DATA":"JPK_DS01",
+    "Nama Set Data":"Data Pelajar Output PB",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"32",
+    "Kementerian\/ Agensi\nPembekal Data":"JPK",
+    "ID SET DATA":"JPK_DS02",
+    "Nama Set Data":"Data Pelajar Output SLDN",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"33",
+    "Kementerian\/ Agensi\nPembekal Data":"JPK",
+    "ID SET DATA":"JPK_DS03",
+    "Nama Set Data":"Maklumat Data Demand Pekerjaan Di Malaysia",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"34",
+    "Kementerian\/ Agensi\nPembekal Data":"JPK",
+    "ID SET DATA":"JPK_DS04",
+    "Nama Set Data":"Maklumat Pelatih Pusat Bertauliah JPK",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"35",
+    "Kementerian\/ Agensi\nPembekal Data":"JPK",
+    "ID SET DATA":"JPK_DS05",
+    "Nama Set Data":"Maklumat Pusat Bertauliah JPK",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"36",
+    "Kementerian\/ Agensi\nPembekal Data":"JPPM",
+    "ID SET DATA":"JPPM_DS01",
+    "Nama Set Data":"Industrial Harmony Index (IHI)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"37",
+    "Kementerian\/ Agensi\nPembekal Data":"JPPM",
+    "ID SET DATA":"JPPM_DS02",
+    "Nama Set Data":"Productivity-Linked Wage System (PLWS)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"38",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSabah",
+    "ID SET DATA":"JTKSbh_DS01",
+    "Nama Set Data":"Borang Permohonan Lesen Menggaji Pekerja Bukan Pemastautin",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"39",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSarawak",
+    "ID SET DATA":"JTKSRWK_DS01",
+    "Nama Set Data":"MSEN-Ap-Application",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"40",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS01",
+    "Nama Set Data":"Rekod Pemberhentian oleh Majikan (Pemberhentian Tetap)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"41",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS02",
+    "Nama Set Data":"Rekod Pemberhentian oleh Majikan (VSS)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"42",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS03",
+    "Nama Set Data":"Industrial Accidents Report",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"43",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS04",
+    "Nama Set Data":"Job Vacancy Registration",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"44",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS05",
+    "Nama Set Data":"Registration of Employer",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"45",
+    "Kementerian\/ Agensi\nPembekal Data":"JTKSM",
+    "ID SET DATA":"JTKSM_DS06",
+    "Nama Set Data":"Registration of Jobseeker",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"46",
+    "Kementerian\/ Agensi\nPembekal Data":"JTM",
+    "ID SET DATA":"JTM_DS01",
+    "Nama Set Data":"e-Tracer study Online System (eTOS)",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"47",
+    "Kementerian\/ Agensi\nPembekal Data":"JTM",
+    "ID SET DATA":"JTM_DS02",
+    "Nama Set Data":"Training Management System (TMS)",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"48",
+    "Kementerian\/ Agensi\nPembekal Data":"JTM",
+    "ID SET DATA":"JTM_DS03",
+    "Nama Set Data":"Data Enrolmen",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"49",
+    "Kementerian\/ Agensi\nPembekal Data":"JTM",
+    "ID SET DATA":"JTM_DS04",
+    "Nama Set Data":"Data Intake",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"50",
+    "Kementerian\/ Agensi\nPembekal Data":"JTM",
+    "ID SET DATA":"JTM_DS05",
+    "Nama Set Data":"Data Output",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"51",
+    "Kementerian\/ Agensi\nPembekal Data":"KBS",
+    "ID SET DATA":"KBS_DS01",
+    "Nama Set Data":"Student Enrolment",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"52",
+    "Kementerian\/ Agensi\nPembekal Data":"KBS",
+    "ID SET DATA":"KBS_DS02",
+    "Nama Set Data":"Student Intake",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"53",
+    "Kementerian\/ Agensi\nPembekal Data":"KBS",
+    "ID SET DATA":"KBS_DS03",
+    "Nama Set Data":"Student Output",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"54",
+    "Kementerian\/ Agensi\nPembekal Data":"KPLB",
+    "ID SET DATA":"KPLB_DS01",
+    "Nama Set Data":"TVET",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"55",
+    "Kementerian\/ Agensi\nPembekal Data":"KPM",
+    "ID SET DATA":"KPM_DS01",
+    "Nama Set Data":"APDM",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"56",
+    "Kementerian\/ Agensi\nPembekal Data":"KPM",
+    "ID SET DATA":"KPM_DS02",
+    "Nama Set Data":"E-Operasi",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"57",
+    "Kementerian\/ Agensi\nPembekal Data":"KPT",
+    "ID SET DATA":"KPT_DS01",
+    "Nama Set Data":"Data Enrolmen Pelajar",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"58",
+    "Kementerian\/ Agensi\nPembekal Data":"KPT",
+    "ID SET DATA":"KPT_DS02",
+    "Nama Set Data":"Data Keluaran Pelajar",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"59",
+    "Kementerian\/ Agensi\nPembekal Data":"KPT",
+    "ID SET DATA":"KPT_DS03",
+    "Nama Set Data":"Data Kemasukan Pelajar",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"60",
+    "Kementerian\/ Agensi\nPembekal Data":"KPT",
+    "ID SET DATA":"KPT_DS04",
+    "Nama Set Data":"Data Pengesanan Graduan",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"61",
+    "Kementerian\/ Agensi\nPembekal Data":"KWSP",
+    "ID SET DATA":"KWSP_DS01",
+    "Nama Set Data":"Majikan",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"62",
+    "Kementerian\/ Agensi\nPembekal Data":"KWSP",
+    "ID SET DATA":"KWSP_DS02",
+    "Nama Set Data":"Rekod Ahli",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"63",
+    "Kementerian\/ Agensi\nPembekal Data":"LHDNM",
+    "ID SET DATA":"LHDN_DS01",
+    "Nama Set Data":"Borang BE, B, BT, M & MT (INDIVIDU)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"64",
+    "Kementerian\/ Agensi\nPembekal Data":"LHDNM",
+    "ID SET DATA":"LHDN_DS02",
+    "Nama Set Data":"Borang C",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"65",
+    "Kementerian\/ Agensi\nPembekal Data":"LHDNM",
+    "ID SET DATA":"LHDN_DS03",
+    "Nama Set Data":"Borang C1, LLP, P, TF (PERTUBUHAN)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"66",
+    "Kementerian\/ Agensi\nPembekal Data":"LHDNM",
+    "ID SET DATA":"LHDN_DS04",
+    "Nama Set Data":"Borang CP39",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"67",
+    "Kementerian\/ Agensi\nPembekal Data":"LHDNM",
+    "ID SET DATA":"LHDN_DS05",
+    "Nama Set Data":"Borang E (MAJIKAN)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"68",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS01",
+    "Nama Set Data":"Data Kebolehpasaran Graduan Lepasan Institut Pendidikan Mara (IPMA)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"69",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS02",
+    "Nama Set Data":"Enrolmen Pelajar Profesional",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"70",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS03",
+    "Nama Set Data":"Enrolmen Pelajar TVET",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"71",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS04",
+    "Nama Set Data":"Intake Pelajar Profesional",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"72",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS05",
+    "Nama Set Data":"Intake Pelajar TVET",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"73",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS06",
+    "Nama Set Data":"Output Pelajar Profesional",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"74",
+    "Kementerian\/ Agensi\nPembekal Data":"MARA",
+    "ID SET DATA":"MARA_DS07",
+    "Nama Set Data":"Output Pelajar TVET",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"75",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS01",
+    "Nama Set Data":"Kemasukan Pegawai Kadet Lepasan Ijazah (Graduan)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"76",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS02",
+    "Nama Set Data":"Maklumat Gaji dan Elaun Angkatan Tentera Malaysia",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"77",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS03",
+    "Nama Set Data":"Rekod Perjawatan ATM",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"78",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS04",
+    "Nama Set Data":"Rekod Pelatih Latihan Peralihan (LP) Perhebat",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"79",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS05",
+    "Nama Set Data":"Rekod Penerima Pencen Perkhidmatan\/Hilangupaya yang Aktif",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"80",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MINDEF_DS06",
+    "Nama Set Data":"Rekod Penerima Pencen Terbitan yang Aktif",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"81",
+    "Kementerian\/ Agensi\nPembekal Data":"MINDEF",
+    "ID SET DATA":"MNDEF_DS07",
+    "Nama Set Data":"Rekod Veteran ATM Tidak Berpencen",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"82",
+    "Kementerian\/ Agensi\nPembekal Data":"MPM",
+    "ID SET DATA":"MPM_DS01",
+    "Nama Set Data":"Case Management (monthly)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"83",
+    "Kementerian\/ Agensi\nPembekal Data":"MPM",
+    "ID SET DATA":"MPM_DS02",
+    "Nama Set Data":"Case Management (quaterly)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"84",
+    "Kementerian\/ Agensi\nPembekal Data":"MPM",
+    "ID SET DATA":"MPM_DS03",
+    "Nama Set Data":"Collective Agreement (monthly)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"85",
+    "Kementerian\/ Agensi\nPembekal Data":"MPM",
+    "ID SET DATA":"MPM_DS04",
+    "Nama Set Data":"Collective Agreement (quaterly)",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"86",
+    "Kementerian\/ Agensi\nPembekal Data":"NIOSH",
+    "ID SET DATA":"NIOSH_DS01",
+    "Nama Set Data":"List Of Trainees & Programs",
+    "PIC FHSB":"Afif"
+  },
+  {
+    "Bil":"87",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS01",
+    "Nama Set Data":"Data Individu",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"88",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS02",
+    "Nama Set Data":"Data Majikan",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"89",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS03",
+    "Nama Set Data":"Maklumat Orang Bekerja Sendiri",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"90",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS04",
+    "Nama Set Data":"Data Penyedia Latihan",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"91",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS05",
+    "Nama Set Data":"Data Pencari Kerja",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"92",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS06",
+    "Nama Set Data":"Data Penempatan Pekerjaan",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"93",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS07",
+    "Nama Set Data":"Data Kehilangan Pekerjaan (LOE)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"94",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS08",
+    "Nama Set Data":"Data Iklan Kekosongan Jawatan dalam Portal MYFUTUREJOBS - Majikan",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"95",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS09",
+    "Nama Set Data":"Data Return To Work (Disability Management)",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"96",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS10",
+    "Nama Set Data":"Industrial Accidents Report",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"97",
+    "Kementerian\/ Agensi\nPembekal Data":"PERKESO",
+    "ID SET DATA":"PERKESO_DS11",
+    "Nama Set Data":"Registration & Contribution Of Employer",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"98",
+    "Kementerian\/ Agensi\nPembekal Data":"PSMB",
+    "ID SET DATA":"PSMB_DS01",
+    "Nama Set Data":"Employer Registered Under HRD Corp",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"99",
+    "Kementerian\/ Agensi\nPembekal Data":"PSMB",
+    "ID SET DATA":"PSMB_DS02",
+    "Nama Set Data":"Employer Registered Under HRD Corp",
+    "PIC FHSB":"Amir"
+  },
+  {
+    "Bil":"100",
+    "Kementerian\/ Agensi\nPembekal Data":"PSMB",
+    "ID SET DATA":"PSMB_DS03",
+    "Nama Set Data":"List of Trainees",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"101",
+    "Kementerian\/ Agensi\nPembekal Data":"PSMB",
+    "ID SET DATA":"PSMB_DS04",
+    "Nama Set Data":"List of Training Providers",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"102",
+    "Kementerian\/ Agensi\nPembekal Data":"PSMB",
+    "ID SET DATA":"PSMB_DS05",
+    "Nama Set Data":"Trainees",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"103",
+    "Kementerian\/ Agensi\nPembekal Data":"PTPK",
+    "ID SET DATA":"PTPK_DS01",
+    "Nama Set Data":"Senarai Pelatih Yang Terima Pembiayaan PTPK",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"104",
+    "Kementerian\/ Agensi\nPembekal Data":"PTPK",
+    "ID SET DATA":"PTPK_DS02",
+    "Nama Set Data":"Senarai Penyedia Latihan Dan Program Yang Berdaftar Dengan PTPK",
+    "PIC FHSB":"Syahidah"
+  },
+  {
+    "Bil":"105",
+    "Kementerian\/ Agensi\nPembekal Data":"BNM",
+    "ID SET DATA":"BNM_DS01",
+    "Nama Set Data":"Labour Market Statistics",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"106",
+    "Kementerian\/ Agensi\nPembekal Data":"BNM",
+    "ID SET DATA":"BNM_DS02",
+    "Nama Set Data":"Monthly Transactional Report for Salary and Worker Remittances (Non-Resident) Remitted via Money Services Business",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"107",
+    "Kementerian\/ Agensi\nPembekal Data":"BNM",
+    "ID SET DATA":"BNM_DS03",
+    "Nama Set Data":"Monthly Transactional Report for Salary and Worker Remittances (Non-Resident) remitted via Banks",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"108",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS01",
+    "Nama Set Data":"eRezeki_v_user_profiling",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"109",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS02",
+    "Nama Set Data":"eRezeki_v_user_skills",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"110",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS03",
+    "Nama Set Data":"eRezeki_v_user_work_preference",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"111",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS04",
+    "Nama Set Data":"EXPATS_CONTACT",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"112",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS05",
+    "Nama Set Data":"EXPATS_ORGANIZATION",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"113",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS06",
+    "Nama Set Data":"EXPATS_PAPERSON",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"114",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS07",
+    "Nama Set Data":"EXPATS_PEMPLOYER",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"115",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS08",
+    "Nama Set Data":"M_vw_companies",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"116",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS09",
+    "Nama Set Data":"M_vw_companies_addresses",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"117",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS10",
+    "Nama Set Data":"SMS_TBL_MeSSP_AQIR_Fact_infotec",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"118",
+    "Kementerian\/ Agensi\nPembekal Data":"MDEC",
+    "ID SET DATA":"MDEC_DS11",
+    "Nama Set Data":"WIZARD_tbFPViewSummary",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"119",
+    "Kementerian\/ Agensi\nPembekal Data":"MEDAC",
+    "ID SET DATA":"MEDAC_DS01",
+    "Nama Set Data":"Majikan (Prot\u00e9g\u00e9)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"120",
+    "Kementerian\/ Agensi\nPembekal Data":"MEDAC",
+    "ID SET DATA":"MEDAC_DS02",
+    "Nama Set Data":"Pemohon (Prot\u00e9g\u00e9)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"121",
+    "Kementerian\/ Agensi\nPembekal Data":"MIDA",
+    "ID SET DATA":"MIDA_DS01",
+    "Nama Set Data":"Job Creations By Approved Manufacturing Projects",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"122",
+    "Kementerian\/ Agensi\nPembekal Data":"PDRM",
+    "ID SET DATA":"PDRM_DS01",
+    "Nama Set Data":"E-Pengambilan",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"123",
+    "Kementerian\/ Agensi\nPembekal Data":"PDRM",
+    "ID SET DATA":"PDRM_DS02",
+    "Nama Set Data":"HRMIS PDRM",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"124",
+    "Kementerian\/ Agensi\nPembekal Data":"PDRM",
+    "ID SET DATA":"PDRM_DS03",
+    "Nama Set Data":"Pesara",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"125",
+    "Kementerian\/ Agensi\nPembekal Data":"SMECorp",
+    "ID SET DATA":"SME_DS01",
+    "Nama Set Data":"Sistem Pendaftaran Status PKS - Rekod Firma",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"126",
+    "Kementerian\/ Agensi\nPembekal Data":"SPA",
+    "ID SET DATA":"SPA_DS01",
+    "Nama Set Data":"Data Pemohon Pekerjaan SPA",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"127",
+    "Kementerian\/ Agensi\nPembekal Data":"SPP",
+    "ID SET DATA":"SPP_DS01",
+    "Nama Set Data":"Permohonan Jawatan App",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"128",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS01",
+    "Nama Set Data":"Career Comeback Programme (CCP)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"129",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS02",
+    "Nama Set Data":"Nurturing Expert Talent (NEXT)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"130",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS03",
+    "Nama Set Data":"Returning Expert Programme (REP)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"131",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS04",
+    "Nama Set Data":"Scholarship Talent Attraction & Retention (STAR)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"132",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS05",
+    "Nama Set Data":"Structured Internship Programme (SIP)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"133",
+    "Kementerian\/ Agensi\nPembekal Data":"TalentCorp",
+    "ID SET DATA":"TalentCorp_DS06",
+    "Nama Set Data":"Survei Call-For-Evidence (CFE), Critical Occupations List",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"134",
+    "Kementerian\/ Agensi\nPembekal Data":"MPC",
+    "ID SET DATA":"MPC_DS01",
+    "Nama Set Data":"eSPO",
+    "PIC FHSB":null
   }
 ]

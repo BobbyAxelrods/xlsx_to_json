@@ -1,14 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from flask import Flask, request, render_template, send_from_directory
+from flask import Flask, request, render_template
 import os
 import json
 import pandas as pd
 import shutil
 
 app = Flask(__name__)  # Pass __name__ as an argument to Flask()
-app.config['UPLOAD_FOLDER'] = 'logs'
 
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
@@ -93,16 +92,6 @@ def clear_files():
             <button type="submit">Go Home</button>
         </form>
     '''
-
-@app.route('/download/<path:filename>', methods=['GET'])
-def download_file(filename):
-    directory = os.path.join(app.root_path, 'output')
-    return send_from_directory(directory, filename, as_attachment=True)
-
-@app.route('/output/<path:filename>', methods=['GET'])
-def serve_output_file(filename):
-    directory = os.path.join(app.root_path, 'output')
-    return send_from_directory(directory, filename)
 
 if __name__ == '__main__':
     app.run(debug=True)
