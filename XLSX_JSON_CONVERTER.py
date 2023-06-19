@@ -47,7 +47,7 @@ else:
     print('No excel to be converted')
 
 if csv_fileList:   
-    for sheet in fileList:
+    for sheet in csv_fileList:
         fileNameExcel = str(sheet)[:-5]    
         df = pd.read_csv(csv_folder+'/'+sheet,nrows=10, dtype=str)
         os.chdir(output_folder)
