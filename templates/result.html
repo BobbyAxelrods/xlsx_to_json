@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Conversion Result</title>
+</head>
+<body>
+    <h1>File Conversion Result</h1>
+    <p>Filename: {{ filename }}</p>
+    <p>Download link: <a href="{{ file_path }}" download>Download</a></p>
+
+    <form method="POST" action="/clear_files">
+        <input type="submit" value="Clear Files">
+    </form>
+
+    <a href="{{ url_for('upload_file') }}" class="btn btn-primary">Go Home</a>
+</body>
+</html>
