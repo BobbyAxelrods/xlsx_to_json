@@ -1,0 +1,72 @@
+[
+  {
+    "Bil":"1",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS01",
+    "Nama Set Data":"Kajian Impak Pelaksanaan Penutupan Penuh Sektor Sosial Dan Ekonomi (Total Lockdown) Terhadap Pasaran Buruh",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"2",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS02",
+    "Nama Set Data":"Kajian Khas Impak Pelaksanaan Penutupan Penuh Sektor Sosial Dan Ekonomi\/ Total Lockdown Terhadap Pasaran Buruh (Isi Rumah)",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"3",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS03",
+    "Nama Set Data":"Kajian Khas Kesan PKP 2.0 Kepada Tenaga Buruh",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"4",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS04",
+    "Nama Set Data":"Kajian Khas Siswazah",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"5",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS05",
+    "Nama Set Data":"Kajian Mystep di Sektor Awam",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"6",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS06",
+    "Nama Set Data":"Labour Demand Scenario By Firm \u2013 Case Study",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"7",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS07",
+    "Nama Set Data":"Malaysia Statistical Address Register",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"8",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS08",
+    "Nama Set Data":"Malaysia Statistical Business Register",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"9",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS09",
+    "Nama Set Data":"Malaysia Statistical Population Register",
+    "PIC FHSB":null
+  },
+  {
+    "Bil":"10",
+    "Kementerian\/ Agensi\nPembekal Data":"DOSM",
+    "ID SET DATA":"DOSM_DS10",
+    "Nama Set Data":"Survei Pembuatan Bulanan",
+    "PIC FHSB":null
+  }
+]
