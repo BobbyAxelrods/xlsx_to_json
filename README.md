@@ -2,6 +2,8 @@
 
 This simple web application allows you to convert XLSX files to JSON format. It is designed to assist web developers in converting XLSX files for testing table builders. The app provides the following features:
 
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*VOSVN3CNVvXpyaS9GgOpoA.png)
+
 ## Features
 
 1. **File Conversion:** Converts XLSX files to JSON format.
@@ -39,3 +41,64 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+# Guide deploying apps to cloud VM (GCP)
+# Deploying Flask App Using Google App Engine
+
+This guide outlines the steps required to deploy a Flask app using Google App Engine.
+
+## Prerequisites
+
+Before deploying your Flask app, make sure you have the following files in your project directory:
+
+1. **main.py**: This file contains your Flask application code.
+2. **requirements.txt**: This file lists all the packages required for your Flask app to run.
+3. **app.yaml**: This file defines the runtime you are using, for example: `runtime: python38`.
+
+## Deployment Steps
+
+Follow the steps below to deploy your Flask app to Google App Engine:
+
+1. **Create a Google Cloud project**: Visit [Google Cloud Console](https://console.cloud.google.com/) and create a new project.
+
+2. **Download Google Cloud SDK**: Download the Google Cloud SDK from the following link: [GoogleCloudSDKInstaller.exe](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe).
+
+3. **Check if Google Cloud SDK is installed**: Open a command prompt and run the command `gcloud --version` to verify if the SDK is installed correctly.
+
+4. **Login to Google Cloud**: Use the command `gcloud auth login` to log in to your Google Cloud account.
+
+5. **Set your project**: Set your app to use the correct project by running the command `gcloud config set project <project-id>` where `<project-id>` is the name of the project you created in the Google Cloud Console.
+- setup SQL instance 
+- check compute instance `gcloud compute instances list`
+- local ssh with cloud VM  `gcloud compute ssh main-vm002`
+    - Install all dependencies such as python , pip, flask 
+    - clone code from this repo in the vm 
+
+6. **Deploy the app**: Use the command `gcloud app deploy` to deploy your Flask app to Google App Engine.
+
+- location = 6
+- 
+
+7. **Stream logs**: You can stream logs from the command line by running `gcloud app logs tail -s default`.
+
+8. **View your application**: To view your deployed application in a web browser, run the command `gcloud app browse`.
+
+9. **Mitigating 502 bad gateway** : Go to console, click Logging -> & check code refferring to main or app-flask.py 
+## Conclusion
+
+By following these steps, you will be able to successfully deploy your Flask app using Google App Engine. For further details and advanced configurations, refer to the official [Google App Engine documentation](https://cloud.google.com/appengine/docs/standard).
+
+
+## Deployment Steps manually with storage to avoid error readme system only
+
+1. **Create a Google Cloud VM instance**: f1-micro / debian 10gb basic image
+
+2. **Setup the firewall rule**: 
+- 443 & 80 allowed , we need remapping 
+- create more port for external access 
+- all instances in network 
+- source ipv4 0.0.0.0/0 to allow all to access 
+-
+
+3. **Setup the firewall rule**: 
