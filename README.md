@@ -10,13 +10,17 @@ This simple web application allows you to convert XLSX files to JSON format. It 
 2. **Number of Rows:** Allows you to specify the number of rows to read from the XLSX file for faster conversion.
 3. **Data Types as String:** Automatically treats all values as strings to avoid losing leading zeros (e.g., leading '000') during the conversion process.
 
-## Upcoming Features
+## Complete Features 
 
 1. **Upload and Save Output:** Provides an upload module and buttons to run the conversion script and save the output. This allows users to upload their XLSX files, convert them to JSON, and save the resulting JSON files for further use.
 2. **Control Number of Rows:** Includes a module to control the number of rows to read from the XLSX file during conversion, giving users more flexibility in the conversion process.
 3. **Download Converted Files:** Adds a button to download the converted JSON files directly from the app after the conversion process is complete.
 4. **Clear Files Module:** Allows users to clear the working directory by removing any uploaded or converted files, providing a clean slate for new conversions.
 5. **CSS Styling:** Enhances the app's appearance by adding CSS styling to each template, making it visually appealing and user-friendly.
+
+## Upcoming Features 
+
+1. Deploy in cloud so other can access 
 
 ## Getting Started
 
@@ -101,4 +105,7 @@ By following these steps, you will be able to successfully deploy your Flask app
 - source ipv4 0.0.0.0/0 to allow all to access 
 -
 
-3. **Setup the firewall rule**: 
+3. **Setup the sql instances and mysql**: 
+added 0.0.0.0/0 as an allowed network. This prefix will allow any IPv4 client to pass the network firewall and make login attempts to your instance, including clients you did not intend to allow. Clients still need valid credentials to successfully log in to your instance.
+
+

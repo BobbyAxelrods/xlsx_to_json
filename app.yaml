@@ -1,1 +1,19 @@
 runtime: python39
+
+entrypoint: gunicorn -b :$PORT main:app
+
+env_variables:
+  UPLOAD_FOLDER: logs
+
+handlers:
+  - url: /download/
+    script: auto
+    secure: always
+
+  - url: /clear_files
+    script: auto
+    secure: always
+
+  - url: /.*
+    script: auto
+    secure: always
