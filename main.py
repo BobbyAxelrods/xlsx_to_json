@@ -104,5 +104,6 @@ def serve_output_file(filename):
     directory = os.path.join(app.root_path, 'output')
     return send_from_directory(directory, filename)
 
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
