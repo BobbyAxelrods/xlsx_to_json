@@ -69,6 +69,11 @@ Follow the steps below to deploy your Flask app to Google App Engine:
 4. **Login to Google Cloud**: Use the command `gcloud auth login` to log in to your Google Cloud account.
 
 5. **Set your project**: Set your app to use the correct project by running the command `gcloud config set project <project-id>` where `<project-id>` is the name of the project you created in the Google Cloud Console.
+- setup SQL instance 
+- check compute instance `gcloud compute instances list`
+- local ssh with cloud VM  `gcloud compute ssh main-vm002`
+    - Install all dependencies such as python , pip, flask 
+    - clone code from this repo in the vm 
 
 6. **Deploy the app**: Use the command `gcloud app deploy` to deploy your Flask app to Google App Engine.
 
@@ -83,3 +88,17 @@ Follow the steps below to deploy your Flask app to Google App Engine:
 ## Conclusion
 
 By following these steps, you will be able to successfully deploy your Flask app using Google App Engine. For further details and advanced configurations, refer to the official [Google App Engine documentation](https://cloud.google.com/appengine/docs/standard).
+
+
+## Deployment Steps manually with storage to avoid error readme system only
+
+1. **Create a Google Cloud VM instance**: f1-micro / debian 10gb basic image
+
+2. **Setup the firewall rule**: 
+- 443 & 80 allowed , we need remapping 
+- create more port for external access 
+- all instances in network 
+- source ipv4 0.0.0.0/0 to allow all to access 
+-
+
+3. **Setup the firewall rule**: 
